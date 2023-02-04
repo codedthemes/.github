@@ -3,6 +3,7 @@
 - [ ] Remove UNUSED comment code
 - [ ] Remove any logging like console.log
 - [ ] Remove all warnings and errors while build
+- [ ] Check vulnerabilities
 - [ ] Make sure build for production is working. Try running command for prod build in local.
 - [ ] Fix prettier: `npx prettier --write .`
 - [ ] Fix eslint: `npx eslint src\ --fix ` command
