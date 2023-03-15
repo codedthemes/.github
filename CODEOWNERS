@@ -50,7 +50,7 @@ a#pps/ @octocat
 # In this example, @octocat owns any file in a `/logs` directory such as
 # `/build/logs`, `/scripts/logs`, and `/deeply/nested/logs`. Any changes
 # in a `/logs` directory will require approval from @octocat.
-**/logs @octocat
+#*/logs @octocat
 
 # In this example, @octocat owns any file in the `/apps`
 # directory in the root of your repository except for the `/apps/github`
